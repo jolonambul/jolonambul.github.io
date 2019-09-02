@@ -478,9 +478,9 @@ h5 {
     opacity: 0.8;
 }
 .add-post-des{
+    font-size: 12pt;
     color: #474747;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 20px;
 }
 .add-post {
     background-color: #008CBA;
