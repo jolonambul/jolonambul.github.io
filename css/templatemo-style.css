@@ -480,6 +480,7 @@ h5 {
 .add-post-des {
     font-weight: bold;
     font-size: 12pt;
+    line-height: 35px;
     color: #474747;
     margin: 20px;
 }
@@ -488,7 +489,7 @@ h5 {
     border: 2px solid #008CBA;
     color: white;
     width: 90%;
-    margin: 5%;
+    margin-left: 5%;
     height: 50px;
     padding-top: 20px;
     font-size: 16pt;
