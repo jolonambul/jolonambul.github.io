@@ -478,6 +478,7 @@ h5 {
     opacity: 0.8;
 }
 .add-post-des {
+    font-weight: bold;
     font-size: 12pt;
     color: #474747;
     margin: 20px;
