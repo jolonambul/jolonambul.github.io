@@ -204,6 +204,24 @@ h5 {
     background-attachment: fixed;
 }
 
+.snslink {
+    display: inline-block;
+    color: white;
+    width: 50%;
+    font-size: 15pt;
+    font-weight: bold;
+    padding-top: 10px;
+    height: 35px;
+}
+
+#youtube {
+    background-color: #FF0000;
+}
+
+#facebook {
+    background-color: #4267B2;
+}
+
 .bg-overlay {
     background: rgba(0,0,0,0.3);
     position: fixed;
