@@ -207,8 +207,8 @@ h5 {
 .snslink {
     display: inline-block;
     color: white;
-    width: 50%;
-    font-size: 12pt;
+    width: 100%;
+    font-size: 16pt;
     font-weight: bold;
     padding-top: 10px;
     height: 35px;
