@@ -193,6 +193,13 @@ h5 {
     color: #fff;
 }
 
+.mouseDes {
+    font-weight: bold;
+    color: #FFFF36;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
 .content-bg {
     position: fixed;
     height: 100%;
